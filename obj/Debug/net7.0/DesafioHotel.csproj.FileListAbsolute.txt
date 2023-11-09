@@ -1,0 +1,14 @@
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\bin\Debug\net7.0\DesafioHotel.exe
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\bin\Debug\net7.0\DesafioHotel.deps.json
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\bin\Debug\net7.0\DesafioHotel.runtimeconfig.json
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\bin\Debug\net7.0\DesafioHotel.dll
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\bin\Debug\net7.0\DesafioHotel.pdb
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\obj\Debug\net7.0\DesafioHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\obj\Debug\net7.0\DesafioHotel.AssemblyInfoInputs.cache
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\obj\Debug\net7.0\DesafioHotel.AssemblyInfo.cs
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\obj\Debug\net7.0\DesafioHotel.csproj.CoreCompileInputs.cache
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\obj\Debug\net7.0\DesafioHotel.dll
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\obj\Debug\net7.0\refint\DesafioHotel.dll
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\obj\Debug\net7.0\DesafioHotel.pdb
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\obj\Debug\net7.0\DesafioHotel.genruntimeconfig.cache
+C:\DevProjects\bddev\csharp\trilha-net-fundamentos-desafio\DesafioHotel\obj\Debug\net7.0\ref\DesafioHotel.dll
